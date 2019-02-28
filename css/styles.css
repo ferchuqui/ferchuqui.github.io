@@ -5,6 +5,7 @@
 .container {
     align-items: center;
     background-color: #2b2b2b;
+    color: white;
     display: flex;
     height: 100vh;
     justify-content: center;
@@ -12,4 +13,16 @@
 }
 h1 {
     color: white;
+}
+
+a {
+    background-color: white;
+    border-radius: 50px;
+    display: block;
+    height: 100px;
+    justify-content: center;
+    text-align: center;
+    width:  100px;
+
+
 }
