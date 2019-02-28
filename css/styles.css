@@ -24,10 +24,14 @@ a {
     border-radius: 50px;
     color: white;
     display: flex;
+    flex-direction: horizontal;
     height: 100px;
     justify-content: center;
     text-align: center;
     text-decoration: none;
     width:  100px;
 
+}
+.buttons {
+    display: flex;
 }
