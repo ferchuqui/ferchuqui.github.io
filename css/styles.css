@@ -25,13 +25,19 @@ a {
     color: white;
     display: flex;
     flex-direction: horizontal;
-    height: 100px;
+    height: 35px;
     justify-content: center;
     text-align: center;
     text-decoration: none;
-    width:  100px;
+    width:  35px;
 
 }
 .buttons {
     display: flex;
+}
+.fab {
+    font-size: 25px;
+}
+.fas {
+    font-size: 25px;
 }
